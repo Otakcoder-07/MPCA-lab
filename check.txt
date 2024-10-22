@@ -1,0 +1,2 @@
+.TEXT
+sub r7,r8,r9,lsr r10

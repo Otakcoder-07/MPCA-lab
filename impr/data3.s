@@ -1,0 +1,13 @@
+.TEXT
+ LDR R0, =A
+ LDR R1, =B
+ LDR R3, =C
+ LDRH R4, [R0]
+ LDRH R5, [R1]
+ ADD R6, R4, R5
+ STRH R6, [R3]
+.DATA
+ A: .HWORD 10
+ B: .HWORD 20
+ C: .HWORD
+.END

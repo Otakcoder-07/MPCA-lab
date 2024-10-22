@@ -1,0 +1,1 @@
+http://www.peter-cockerell.net/aalp/html/ch-3.html#:~:text=In%20the%20%EE%80%80ARM%EE%80%81%20%EE%80%80BIC%EE%80%81%20%EE%80%80instruction%EE%80%81%2C%20this%20operation%20is,caps%20by%20clearing%20bit%205.%20TST%20Test%20bits

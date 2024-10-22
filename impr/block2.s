@@ -1,0 +1,8 @@
+.TEXT
+ LDR R8, =A
+ LDR R9, =B
+ LDMIA R8, {R0, R1, R2}
+ STMIA R9, {R0-R2}
+.DATA
+ A: .WORD 10, 20, 30, 40, 50
+ B: .WORD
